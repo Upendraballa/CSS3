@@ -1,0 +1,13 @@
+table{
+			border:9px solid black;
+			border-color:aqua;
+			height: 200px;
+			width: 100%;
+		}
+		#menu{
+			background-color: red;
+			width:15%;
+		}
+		#menu1{
+			background-color: black;
+		}

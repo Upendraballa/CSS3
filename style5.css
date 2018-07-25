@@ -1,0 +1,14 @@
+table{
+			border:1px solid black;
+			border-color: black;
+			border-width: 8px;
+			height: 100px;
+			width: 100%;
+		}
+		#menu{
+			background-color: red;
+			width:7%;
+		}
+		#menu1{
+			width:3%;
+		}

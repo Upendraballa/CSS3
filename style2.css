@@ -1,0 +1,22 @@
+ *{
+       	            height:230px;
+					width:300px;
+					padding: 40px;
+					color: white;
+					text-align: center,justify;
+					font-family: Arial;
+					border-style: dashed;
+					border-width: 4px;
+					line-height:1;
+
+        }
+       .dashed
+				{
+					border-color:MediumBlue; 
+					background-color:RebeccaPurple;					
+				}
+				.p1{
+					border-color:DarkGreen;
+					background-color:Chartreuse;		
+
+				}

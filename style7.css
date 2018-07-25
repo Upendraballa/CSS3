@@ -1,0 +1,27 @@
+header{
+	   border: 2px solid black;
+	    height: 100px;
+	   width: 100%;
+	}
+	menu{
+		border: 2px solid black;
+	   height: 100px;
+	   width: 150px;
+	}
+	main{
+		display: inline-grid;
+		float: right;
+		border: 2px solid black;
+	   height: 100px;
+	   width: 200px;
+	   margin bottom: 5px;
+	}
+    .item{
+    	margin-left: 220px;
+    	margin-top: 120px;
+       	display: inline-grid;
+       	float: left;
+		border: 2px solid black;
+	   height: 350px;
+	 width: 65%;
+	}

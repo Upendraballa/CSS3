@@ -1,0 +1,46 @@
+header{
+		display: inline-grid;
+		border:1px solid black;
+		height: 50px;
+		width: 100%;
+		margin-left: 5px;
+	}
+	menu{
+		display: inline-grid;
+		border: 1px solid black;
+	    height: 300px;
+	    width: 10%;
+	    margin-left: 5px;
+	    margin-top: 5px;
+	}
+	nav{
+		display: inline-grid;
+		float: left;
+		border:1px solid black;
+		margin-left: 150px;
+		height: 40px;
+		width: 620%;
+	}
+	article{
+		border:1px solid black;
+		height: 250px;
+		width: 100%;
+		margin-left: 5px;
+		margin-top:20px;
+	}
+	.menu,.menu1,.menu2,.menu3,.menu4{
+		display: inline-grid;
+		border: 1px solid black;
+		height: 20px;
+		width: 5%;
+		margin-top: 5px;
+		margin-left: 7px;
+	}
+	main{
+		display: inline-grid;
+		float: right;
+		border: 1px solid black;
+	    height: 300px;
+	    width: 10%;
+	    margin-top: 5px;
+	}

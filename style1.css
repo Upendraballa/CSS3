@@ -1,0 +1,26 @@
+header {
+    background-color: red;
+    height: 45px;
+    width:65%;
+}
+nav {
+    float: left;
+    width: 15%;
+    height: 340px;
+    background-color: green;
+}
+article {
+    float: left;
+    border-left-style: solid;
+    border-width: 5px;
+    width:49.3%;
+    background-color: blue;
+    height: 340px; 
+}
+
+footer {
+    float: left;
+	height: 45px;
+	width:65%;
+    background-color:yellow;
+}

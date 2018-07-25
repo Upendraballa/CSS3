@@ -1,0 +1,28 @@
+table{
+			background-color:Silver;
+			height: 100px;
+			width: 100%;
+		}
+		#menu{
+			border:1px solid black;
+			border-color: yellow; 
+			width:30%;
+			text-align: left;
+			vertical-align: top;
+		}
+		#menu1{
+			border:1px solid black;
+			border-color:red ; 
+			width:32%;
+			text-align: left;
+			vertical-align: top;
+		}
+		#menu2{
+			border:1px solid black;
+			border-color:grey ; 
+			background-color: Chartreuse;
+			width:30%;
+			text-align: left;
+			vertical-align: top;
+
+		}
